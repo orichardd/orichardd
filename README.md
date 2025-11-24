@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá! 👋
 
-<!--
-**orichardd/orichardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Richard e sou estudante de Tecnologia da Informação no Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul (IFRS). Atualmente, também estou cursando Desenvolvimento de Sistemas Bilíngue no Senac RS e na Alura.
 
-Here are some ideas to get you started:
+Tecnologias que estou aprendendo:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java — Estudando no IFRS e Alura
+
+MySQL — Estudando no IFRS e Senac RS
+
+Projetos em andamento:
+
+Atualmente, estou focado em desenvolver habilidades em desenvolvimento de sistemas, criando aplicações e aplicando o que aprendo nas aulas e projetos pessoais.
+
+A aplicação que mais ando trabalhando é o Simulador de Engrenagens, um projeto escolar que me permite explorar conceitos de mecânica e programação. Você pode checar o projeto completo nos meus repositórios!
