@@ -1,6 +1,6 @@
 Olá!
 
-Meu nome é Richard e sou estudante de Tecnologia da Informação no Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul (IFRS). Atualmente, também estou cursando Desenvolvimento de Sistemas Bilíngue no Senac RS e na Alura.
+Meu nome é Richard e sou estudante de Tecnologia da Informação no Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul (IFRS). Atualmente, também estou cursando Desenvolvimento de Sistemas Bilíngue no Senac RS e Desenvolvimento Back-End na Alura.
 
 Tecnologias que estou aprendendo:
 
