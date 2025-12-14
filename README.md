@@ -24,16 +24,17 @@ MySQL e Postgres — Estudando no IFRS e Senac RS <br>
     </td>
     <td>
       <img 
-        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2VjMm9ndGlhcHFqM2x5aXgyb2Z1M3RleDdrNnozeHVyNTQ2MzY0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVBR6cLvUjV9C/giphy.gif"
+        src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHFld2M1NzB4YmJxYmY5ODZmNGlzb3g0anM5NWpvNXlxOHd5NnNmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fvTc3t7FsmU41FBifg/giphy.gif"
         height="200"
       />
     </td>
   </tr>
 </table>
 
-
 </p>
 Projetos criados:
+
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=orichardd&repo=GearSolid&theme=tokyonight)
 
 GearSolid: um simulador de engrenagens em Java para uso didático em escolas - Projeto feito para o IFRS
 
