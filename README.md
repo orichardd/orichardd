@@ -7,11 +7,14 @@ Meu nome é Richard e sou estudante de Tecnologia da Informação no Instituto F
 Tecnologias que estou aprendendo:
 
 Java — Estudando no IFRS e Alura
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-MySQL — Estudando no IFRS e Senac RS
+Spring - Estudando na Alura
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-Projetos em andamento:
+MySQL e Postgres — Estudando no IFRS e Senac RS
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Atualmente, estou focado em desenvolver habilidades em desenvolvimento de sistemas, criando aplicações e aplicando o que aprendo nas aulas e projetos pessoais.
+Projetos criados:
 
-A aplicação que mais ando trabalhando é o Simulador de Engrenagens, um projeto escolar que me permite explorar conceitos de mecânica e programação. Você pode checar o projeto completo nos meus repositórios!
+GearSolid: um simulador de engrenagens em Java para uso didático em escolas - Projeto feito para o IFRS
