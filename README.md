@@ -18,3 +18,6 @@ MySQL e Postgres — Estudando no IFRS e Senac RS
 Projetos criados:
 
 GearSolid: um simulador de engrenagens em Java para uso didático em escolas - Projeto feito para o IFRS
+
+Contato:
+Email: richdd.dev@gmail.com
