@@ -2,6 +2,8 @@ Olá!
 
 Meu nome é Richard e sou estudante de Tecnologia da Informação no Instituto Federal de Ciência e Tecnologia do Rio Grande do Sul (IFRS). Atualmente, também estou cursando Desenvolvimento de Sistemas Bilíngue no Senac RS e Desenvolvimento Back-End na Alura.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orichardd&layout=compact&theme=dark)
+
 Tecnologias que estou aprendendo:
 
 Java — Estudando no IFRS e Alura
