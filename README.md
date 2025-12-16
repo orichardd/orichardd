@@ -36,7 +36,5 @@ Projetos criados:
 
 ![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=orichardd&repo=GearSolid&theme=tokyonight)
 
-GearSolid: um simulador de engrenagens em Java para uso didático em escolas - Projeto feito para o IFRS
-
 Contato:
 Email: richdd.dev@gmail.com
